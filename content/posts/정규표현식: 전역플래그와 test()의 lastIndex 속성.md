@@ -1,6 +1,6 @@
 ---
 title: "정규표현식: 전역플랙그와 test(), exec()의 lastIndex속성"
-date: "2020-6-5 19:31:00"
+date: "2020-04-11 19:31:00"
 template: "post"
 draft: false
 slug: "regexp"
