@@ -3,7 +3,7 @@ title: "정규표현식: 전역플랙그와 test(), exec()의 lastIndex속성"
 date: "2020-6-5 19:31:00"
 template: "post"
 draft: false
-slug: "/posts/regexp"
+slug: "regexp"
 category: "study"
 description: "test()와 exec()를 전역플래그와 함께 사용했을 때 나타나는 문제"
 ---

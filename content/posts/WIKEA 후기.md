@@ -1,11 +1,11 @@
 ---
-title: "개발을 시작하게 된 계기"
-date: "2020-6-5 19:31:00"
+title: "WIKEA 후기"
+date: "2020-05-22 19:31:00"
 template: "post"
-draft: true
-slug: "/posts/code/1"
-category: "study"
-description: "watta taxi 프로젝트를 하며 알게 된 쿼리스트링 파싱 함수를 정리해보자."
+draft: false
+slug: "wikea"
+category: "project"
+description: "인테리어 가구 쇼핑몰, 위케아 프로젝트 회고록"
 ---
 
 > **Members**  
