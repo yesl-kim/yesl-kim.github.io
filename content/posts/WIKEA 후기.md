@@ -5,6 +5,8 @@ template: "post"
 draft: false
 slug: "wikea"
 category: "project"
+tags:
+  - "회고"
 description: "인테리어 가구 쇼핑몰, 위케아 프로젝트 회고록"
 ---
 

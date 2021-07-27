@@ -5,6 +5,8 @@ template: "post"
 draft: false
 slug: "watta-taxi"
 category: "project"
+tags:
+  - "회고"
 description: "한강 주변 수상택시 예약 사이트, watta: taxi 프로젝트 회고록"
 ---
 
