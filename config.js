@@ -29,7 +29,7 @@ module.exports = {
       facebook: "",
       telegram: "",
       twitter: "",
-      github: "https://github.com/yesl-kim",
+      github: "yesl-kim",
       rss: "",
       vkontakte: "",
       linkedin: "",
