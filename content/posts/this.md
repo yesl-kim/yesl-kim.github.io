@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "this"
 category: "JavaScript"
-description: "호출방식에 따라 다르게 바인딩되는 자바스크립트의 this (feat. 일반함수, 화살표함수, call, apply, bind)"
+description: "코어자바스크립트 3장. this"
 ---
 
 > [poiemaweb | 5.17 this](https://poiemaweb.com/js-this)  
