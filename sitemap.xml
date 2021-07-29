@@ -3,14 +3,15 @@
 <url> <loc>https://yesl-kim.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/posts/this</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yesl-kim.github.io/posts/wikea</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yesl-kim.github.io/posts/watta-taxi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/posts/context</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yesl-kim.github.io/posts/regexp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yesl-kim.github.io/posts/promise</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yesl-kim.github.io/posts/watta-taxi-code/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yesl-kim.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/posts/asyncronous-processing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/posts/motivation-to-be-a-developer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/posts/regexp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/posts/watta-taxi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/posts/wikea</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/posts/promise</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/posts/watta-taxi-code/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/tag/회고</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/category/java-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/category/essay</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -18,4 +19,5 @@
 <url> <loc>https://yesl-kim.github.io/category/study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yesl-kim.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yesl-kim.github.io/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
