@@ -1,5 +1,5 @@
 ---
-title: "this"
+title: "JS | prototype"
 date: "2020-07-31 12:53:00"
 template: "post"
 draft: false

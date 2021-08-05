@@ -4,7 +4,7 @@ date: "2020-06-06 15:39:00"
 template: "post"
 draft: false
 slug: "watta-taxi"
-category: "project"
+category: "Project"
 tags:
   - "회고"
 description: "한강 주변 수상택시 예약 사이트, watta: taxi 프로젝트 회고록"

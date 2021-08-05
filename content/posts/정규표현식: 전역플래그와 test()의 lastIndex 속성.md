@@ -4,7 +4,7 @@ date: "2020-04-11 19:31:00"
 template: "post"
 draft: false
 slug: "regexp"
-category: "study"
+category: "Study"
 description: "test()와 exec()를 전역플래그와 함께 사용했을 때 나타나는 문제"
 ---
 
