@@ -68,14 +68,14 @@
 <li>
 <p><strong>하위 카테고리 <code class="language-text">&lt;nav></code>에 aria-hidden 속성</strong><br>
 보조 기술 사용자에게 혼란을 주지 않기 위해 화면에 보이지 않는 하위 카테고리에 <code class="language-text">{aria hidden: true}</code> 속성 부여</p>
-<blockquote>
-<p>aria hidden<br>
+<ul>
+<li>aria hidden<br>
 스크린 리더와 같은 보조 기술에 탐색될지 말지를 정하는 속성<br>
 기본값은 undefined<br>
 화면에 시각적으로 보이지 않는 요소(display : block 혹은 visibillity : hidden) 는 보조기술에도 감지되지 않는다.<br>
 화면에 시각적으로 렌더링되지 않지만 명시적으로 숨겨지지 않는 요소는 여전히 접근성 트리에 존재 (overflow: hidden으로 가려지는 요소)<br>
-속성을 부여한 요소와 하위요소 모두 접근성 트리에서 제거</p>
-</blockquote>
+속성을 부여한 요소와 하위요소 모두 접근성 트리에서 제거</li>
+</ul>
 </li>
 </ul>
 <p>위에 정리한대로 기존 웹 사이트에서는 상위-하위 카티고리 요소가 부모-자식관계로 구조가 짜여있었다. 즉 모든 상하위 카테고리 UI를 모두 렌더한 후에 속성으로 화면에서 보이지 않게 처리한 듯했다. 하지만 사실 상위 카테고리와 하위 카테고리는 <strong>각각 데이터만 바뀔 분 같은 UI</strong>이기 때문에 리액트에서는 그렇게 요소를 렌더할 필요가 없다고 생각했다. (물론 그렇게 한 이유가 있었겠지만!)</p>
