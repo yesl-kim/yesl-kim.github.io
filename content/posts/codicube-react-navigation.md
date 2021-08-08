@@ -2,7 +2,7 @@
 title: "RN | 2depth Drawer Navigator"
 date: "2020-07-03 14:05:00"
 template: "post"
-draft: true
+draft: false
 slug: "react-2depth-drawer-navigator"
 category: "Study"
 tags:
@@ -34,7 +34,7 @@ description: "드로어 네비게이터가 2depth 혹은 3depth의 화면을 렌
 바로 문제 상황 설명을 하자면, 구현해야하는 네비게이션 구조는 다음과 같았다.  
 (보안상의 문제로 실제와 조금 다르게 중략하였다.)
 
-![네비게이션 구조(1)]()
+![네비게이션 구조(1)](https://github.com/yesl-kim/yesl-kim.github.io/blob/develop/images/rn-navigation-structure.png?raw=true)
 
 ### Drawer Navigator가 관련된 네비게이터의 가장 상위로 가야한다.
 
@@ -42,7 +42,7 @@ description: "드로어 네비게이터가 2depth 혹은 3depth의 화면을 렌
 
 [리액트 네비게이션 공식문서](https://reactnavigation.org/docs/nesting-navigators/#parent-navigators-ui-is-rendered-on-top-of-child-navigator)에서 말하는 것처럼 슬라이드 메뉴가 2depth의 탑 탭 스크린들을(B - a, b, c, d)를 렌더하고 있지만 상위 스크린(A, B, C)에서 모두 렌더되고 있기 때문에 Drawer Navigator가 가장 상위로 가야한다.
 
-![네비게이션 구조(2)]()
+![네비게이션 구조(2)](https://github.com/yesl-kim/yesl-kim.github.io/blob/develop/images/rn-navigation-structure2.png?raw=true)
 
 ## 문제-해결
 
