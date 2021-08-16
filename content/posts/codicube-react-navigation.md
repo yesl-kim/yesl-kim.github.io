@@ -20,7 +20,7 @@ description: "드로어 네비게이터가 2depth 혹은 3depth의 화면을 렌
 
 - Expo
 - React Native 0.64
-- React Navigation 6.x
+- React Navigation 5.x
 
 [레퍼런스는 여기](https://www.youtube.com/watch?v=pd01LyE7ts8&t=54s)
 ~~와 공식문서는 글 안에서 링크해놓았습니다.~~
